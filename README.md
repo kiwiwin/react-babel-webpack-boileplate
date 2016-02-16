@@ -12,12 +12,17 @@ This repo is a boilerplate for React-Babel-Webpack project. You could use it as 
 - Support git hook `commit-msg` used to lint your [commit message](https://github.com/kentcdodds/validate-commit-msg)
 - Use [conventional-changelog](https://github.com/ajoslin/conventional-changelog) to generate `CHANGELOG.md`
 
+## Clone From
+
+git@github.com:ruanyf/react-babel-webpack-boilerplate.git
+
 ## How to use
 
 First, you should clone the repo and install the dependencies.
 
+
 ```bash
-$ git clone git@github.com:ruanyf/react-babel-webpack-boilerplate.git <yourAppName>
+$ git clone git@github.com:kiwiwin/react-babel-webpack-boileplate.git <yourAppName>
 $ cd <yourAppName>
 $ npm install
 ```
